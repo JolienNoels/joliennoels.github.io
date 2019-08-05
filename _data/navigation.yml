@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Research"
-    url: https://joliennoels.github.io/research/
+    url: /research/
   - title: CV
-    url:
+    url: /cv/
   - title: Writings
     url: /blog/
   # - title: "About"
