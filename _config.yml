@@ -13,6 +13,20 @@ description: "personal website"
 
 github: "JolienNoels"
 
+# Site Author
+author:
+  name: "Jolien Noels"
+  avatar:
+  bio: "Economist"
+  Location: "London"
+  Links:
+    - label: "Twitter"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:j.noels@lse.ac.uk
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/joliennoels"
+
 # Conversion
 markdown: kramdown
 
