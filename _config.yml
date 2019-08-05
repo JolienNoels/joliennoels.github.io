@@ -129,7 +129,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
@@ -200,6 +200,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+permalink: /blog/:year/:month/:day/:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
