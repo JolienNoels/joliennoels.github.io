@@ -47,6 +47,7 @@ task :preview do
     base.join("_data"),
     base.join("_includes"),
     base.join("_layouts"),
+    base.join("_pages"),
     base.join("_sass"),
     base.join("_posts")
     base.join("assets"),
