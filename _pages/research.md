@@ -23,11 +23,11 @@ permalink: /research/
   Transition Pathway Initiative, 2019
 
 **TPI State of Transition Report 2019** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/07/TPI-State-of-Transition-Report-2019-1.pdf))  
-  Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner, Valentin Jahn, Michal Nachmany and Rory Sullivan
+  Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
 **Management Quality and Carbon Performance of Airlines: March 2019** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/03/Management-quality-and-carbon-performance-of-airlines-040319-1730.pdf))  
-  Joint with Simon Dietz, Rhoda Byrne, Valentin Jahn, Michal Nachmany and Rory Sullivan
+  Joint with Simon Dietz, Rhoda Byrne, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
 **Management Quality and Carbon Performance of Aluminium Producers** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/03/Management-quality-and-carbon-performance-of-aluminium-producers.pdf))  
