@@ -7,19 +7,19 @@ permalink: /research/
 ## Publications
 
 **A survey of the net zero positions of the world’s largest energy companies** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/11/A-survey-of-the-net-zero-positions-of-the-worlds-largest-energy-companies-3.pdf))  
-  Joint with Simon Dietz, Valentin Jahn, Rupert Stuart-Smith and Cameron Hepburn
+  Joint with Simon Dietz, Valentin Jahn, Rupert Stuart-Smith and Cameron Hepburn  
   Transition Pathway Initiative, 2019
 
 **Management Quality and Carbon Performance of Energy Companies: September 2019** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Management-quality-and-carbon-performance-of-energy-sectors-final-180919.pdf))  
-  Joint with Simon Dietz, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan
+  Joint with Simon Dietz, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
 **Carbon Performance assessment of oil & gas producers: note on methodology** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Methodology-note-for-Oil-and-Gas.pdf))  
-  Joint with Simon Dietz, Dan Gardiner and Valentin Jahn
+  Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
   Transition Pathway Initiative, 2019
 
 **TPI Methodology and indicators report: Version 3.0** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Methodology-and-Indicator-Report-v3.0-Final.pdf))  
-  Joint with Simon Dietz, Valentin Jahn, Michal Nachmany and Rory Sullivan
+  Joint with Simon Dietz, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
 **TPI State of Transition Report 2019** ([Link](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/07/TPI-State-of-Transition-Report-2019-1.pdf))  
