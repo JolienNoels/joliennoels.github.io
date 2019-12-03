@@ -26,7 +26,8 @@ permalink: /research/
 
 **[TPI State of Transition Report 2019](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/07/TPI-State-of-Transition-Report-2019-1.pdf)**  
   Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner, Valentin Jahn, Michal Nachmany and Rory Sullivan  
-  Transition Pathway Initiative, 2019
+  Transition Pathway Initiative, 2019  
+  Selected coverage: [The Guardian](https://www.theguardian.com/environment/2019/jul/10/quarter-of-worlds-biggest-firms-fail-to-disclose-greenhouse-gas-emissions?CMP=Share_AndroidApp_Copy_to_clipboard), [Reuters](https://uk.reuters.com/article/us-climate-change-business/most-big-co2-emitting-firms-not-on-track-for-climate-goals-report-idUKKCN1U42Q7), [CNBC](https://www.cnbc.com/2019/07/09/reuters-america-most-big-co2-emitting-firms-not-on-track-for-climate-goals-report.html?__source=sharebar%7Ctwitter&par=sharebar), [The Japan Times](https://www.japantimes.co.jp/news/2019/07/10/world/science-health-world/worlds-biggest-polluting-firms-not-track-climate-goals-study-finds/#.XebmGS2ca9Y)
 
 **[Management Quality and Carbon Performance of Airlines: March 2019](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/03/Management-quality-and-carbon-performance-of-airlines-040319-1730.pdf)**  
   Joint with Simon Dietz, Rhoda Byrne, Valentin Jahn, Michal Nachmany and Rory Sullivan  
