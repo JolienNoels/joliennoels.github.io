@@ -32,7 +32,7 @@ permalink: /research/
 **[Management Quality and Carbon Performance of Airlines: March 2019](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/03/Management-quality-and-carbon-performance-of-airlines-040319-1730.pdf)**  
   Joint with Simon Dietz, Rhoda Byrne, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019  
-  Selected coverage: []()
+  Selected coverage: [BBC](https://www.bbc.com/news/science-environment-47460958), [CNN](https://www.cnn.com/2019/03/05/business/airlines-climate-change-emissions/index.html), [](), []()
 
 **[Management Quality and Carbon Performance of Aluminium Producers](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/03/Management-quality-and-carbon-performance-of-aluminium-producers.pdf)**  
   Joint with Simon Dietz, Valentin Jahn, Michal Nachmany and Rory Sullivan  
