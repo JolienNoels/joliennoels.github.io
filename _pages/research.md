@@ -8,7 +8,8 @@ permalink: /research/
 
 **[A survey of the net zero positions of the world’s largest energy companies](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/11/A-survey-of-the-net-zero-positions-of-the-worlds-largest-energy-companies-3.pdf)**  
   Joint with Simon Dietz, Valentin Jahn, Rupert Stuart-Smith and Cameron Hepburn  
-  Transition Pathway Initiative, 2019
+  Transition Pathway Initiative, 2019  
+  Selected coverage: [Axios](https://www.axios.com/newsletters/axios-generate-cb88ac28-a3f1-4030-bdcd-e2f6ffce3e15.html?chunk=3#story3), []()
 
 **[Management Quality and Carbon Performance of Energy Companies: September 2019](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Management-quality-and-carbon-performance-of-energy-sectors-final-180919.pdf)**  
   Joint with Simon Dietz, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
