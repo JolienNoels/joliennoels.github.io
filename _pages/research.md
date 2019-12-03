@@ -13,7 +13,8 @@ permalink: /research/
 
 **[Management Quality and Carbon Performance of Energy Companies: September 2019](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Management-quality-and-carbon-performance-of-energy-sectors-final-180919.pdf)**  
   Joint with Simon Dietz, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
-  Transition Pathway Initiative, 2019
+  Transition Pathway Initiative, 2019  
+  Selected coverage: [Reuters](https://uk.reuters.com/article/uk-climate-change-summit-investors/investors-turn-heat-on-big-oil-ahead-of-u-n-climate-summit-idUKKBN1W22SL), [FT](https://www.ft.com/content/2c44d5d2-e9b7-11e9-a240-3b065ef5fc55)
 
 **[Carbon Performance assessment of oil & gas producers: note on methodology](http://www.lse.ac.uk/GranthamInstitute/tpi/wp-content/uploads/2019/09/Methodology-note-for-Oil-and-Gas.pdf)**  
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
