@@ -3,6 +3,9 @@ layout: archive
 permalink: /presentations/
 ---
 
+**Assessing companies’ preparedness for the low carbon transition**, Colombian Climate Assets Owners Disclosure Initiative conference  
+The Tower Hotel, January 22, 2020
+
 **Corporate disclosure and investor information on transition risk**, LSE-BoE Climate Risk Workshop  
 Bank of England, September 30, 2019
 
