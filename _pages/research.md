@@ -6,7 +6,15 @@ permalink: /research/
 
 ## Publications
 
-**[Management Quality and Carbon Performance of Transport Companies: December 2019](https://storage.googleapis.com/cclow-staging/xdquklzi7qsmejg0bmen12c0rsq0?GoogleAccessId=laws-and-pathways-staging%40soy-truth-247515.iam.gserviceaccount.com&Expires=1578138085&Signature=pVSHzSre9g9OnTP7w2JYJ7J1prlGhXOvGRKClMMzU%2B77joxVjS6FGCnXpfk4CaQdEH2O5ydhx3hRUHaE9PL1GZt66pissUrq2QfBr5UVZBeI2bAoKVLwd8UD4Zsd2UR9FcxbTfdkJDe6P13SFk2EOxIEJUlCxmtCHsFTxv8jYij1h2Ohx083r%2BOrWiBPMhcIxk78ZsFsu0UVStGQ3zQab0KSffYsub8EipM%2BHvOXtEXK%2BTVQSLkyit1fcV7QtD2P94%2B9Ho1nadLw9VXjVtsUgFPTW%2BWWItct5hGQzuuNkw1hxFwD4f58ktJztcdko33%2FM52UeHcLtPBP%2Bl3YVb7Dww%3D%3D&response-content-disposition=inline%3B+filename%3D%22TPI+Transport+report+Dec+2019%255B4%255D.pdf%22%3B+filename%2A%3DUTF-8%27%27TPI%2520Transport%2520report%2520Dec%25202019%255B4%255D.pdf&response-content-type=application%2Fpdf)**  
+**[Management Quality and Carbon Performance of Industrials and Materials Companies](https://www.transitionpathwayinitiative.org/tpi/publications/47.pdf?type=Publication)**    
+  Joint with Simon Dietz, Glen Gostlow, Valentin Jahn, Michal Nachmany, Jolien Noels and Rory Sullivan  
+  Transition Pathway Initiative, 2020
+
+**[Carbon performance assessment of paper producers: note on methodology](https://www.transitionpathwayinitiative.org/tpi/publications/49.pdf?type=Publication)**  
+  Joint with Simon Dietz, William Irwin, Bruno Rauis, Valentin Jahn and Jolien Noels  
+  Transition Pathway Initiative, 2020
+
+**[Management Quality and Carbon Performance of Transport Companies: December 2019](https://www.transitionpathwayinitiative.org/tpi/publications/42.pdf?type=Publication)**  
   Joint with Simon Dietz, Rhoda Byrne, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
