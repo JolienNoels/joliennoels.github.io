@@ -6,13 +6,17 @@ permalink: /research/
 
 ## Publications
 
+**[TPI State of Transition Report 2020](https://www.transitionpathwayinitiative.org/tpi/publications/50.pdf?type=Publication)**  
+  Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner,Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
+  Transition Pathway Initiative, 2020
+
 **[Management Quality and Carbon Performance of Industrials and Materials Companies](https://www.transitionpathwayinitiative.org/tpi/publications/47.pdf?type=Publication)**    
-  Joint with Simon Dietz, Glen Gostlow, Valentin Jahn, Michal Nachmany, Jolien Noels and Rory Sullivan  
+  Joint with Simon Dietz, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2020  
   Selected coverage: [FT](https://www.ft.com/content/d94aa146-445a-11ea-a43a-c4b328d9061c), [Aljazeera](https://www.aljazeera.com/ajimpact/18-trillion-investor-group-calls-industry-giants-climate-200203191455108.html), [BusinessGreen](https://www.businessgreen.com/news/4009939/report-industrial-giants-guilty-slow-progress-climate-action), [Independent](https://www.independent.co.uk/news/business/comment/climate-crisis-industry-transition-pathway-initiative-fund-management-investment-a9311621.html)
 
 **[Carbon performance assessment of paper producers: note on methodology](https://www.transitionpathwayinitiative.org/tpi/publications/49.pdf?type=Publication)**  
-  Joint with Simon Dietz, William Irwin, Bruno Rauis, Valentin Jahn and Jolien Noels  
+  Joint with Simon Dietz, William Irwin, Bruno Rauis, Valentin Jahn  
   Transition Pathway Initiative, 2020
 
 **[Management Quality and Carbon Performance of Transport Companies: December 2019](https://www.transitionpathwayinitiative.org/tpi/publications/42.pdf?type=Publication)**  
