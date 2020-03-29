@@ -72,7 +72,7 @@ permalink: /research/
   Joint with  Simon Dietz, Valentin Jahn and Michal Nachmany  
   Transition Pathway Initiative, 2018
 
-**[Carbon Performance Assessment of automobile manufacturers: Note on Methodology](files/Autos-Methodology-Nov-2018.pdf)**  
+**[Carbon Performance Assessment of automobile manufacturers: Note on Methodology](Autos-Methodology-Nov-2018.pdf)**  
   Joint with Simon Dietz, William Irwin, Bruno Rauis and Valentin Jahn  
   Transition Pathway Initiative, 2018
 
