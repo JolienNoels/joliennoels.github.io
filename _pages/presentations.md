@@ -2,6 +2,11 @@
 layout: archive
 permalink: /presentations/
 ---
+**State of the Transition 2020**, GRI Sustainable Finance lunch seminar  
+Grantham Research Institute, March 26, 2020
+
+**Carbon Performance and Management Quality of Industrial and Material Sectors**, Report release  
+Grantham Research Institute, February 13, 2020
 
 **Assessing companies’ preparedness for the low carbon transition**, Colombian Climate Assets Owners Disclosure Initiative conference  
 The Tower Hotel, January 22, 2020
