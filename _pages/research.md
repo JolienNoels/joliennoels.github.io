@@ -6,6 +6,14 @@ permalink: /research/
 
 ## Publications
 
+**[TPI State of Transition Report 2020](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
+  Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
+  Transition Pathway Initiative, 2020
+
+**[Carbon Performance Assessment in the Diversified Mining Sector: Discussion paper](http://joliennoels.github.io/files/Diversified-Miners-Discussion-Paper.pdf)**  
+  Joint with Simon Dietz, Annabel Farr, Dan Gardiner and Valentin Jahn  
+  Transition Pathway Initiative, 2020
+
 **[TPI State of Transition Report 2020](http://joliennoels.github.io/files/TPI-State-of-the-Transition-2020.pdf)**  
   Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2020
