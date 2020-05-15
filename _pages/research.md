@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-**[TPI State of Transition Report 2020](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
+**[Carbon Performance of European Integrated Oil and Gas Companies: Briefing paper](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
   Transition Pathway Initiative, 2020  
   Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-11/big-oil-s-climate-targets-not-enough-for-paris-goals-funds-say), [BBC](https://www.bbc.com/news/science-environment-52624695), [The Times](https://www.thetimes.co.uk/article/bp-must-raise-game-to-meet-climate-pledge-says-report-wp5c68brb), [Reuters](https://www.reuters.com/article/oil-carbon-companies-targets/shell-eni-lead-oil-majors-climate-ambitions-but-still-fall-short-investors-idUSL8N2CT3TY)
