@@ -9,7 +9,7 @@ permalink: /research/
 **[Carbon Performance of European Integrated Oil and Gas Companies: Briefing paper](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
   Transition Pathway Initiative, 2020  
-  Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-11/big-oil-s-climate-targets-not-enough-for-paris-goals-funds-say), [BBC](https://www.bbc.com/news/science-environment-52624695), [The Times](https://www.thetimes.co.uk/article/bp-must-raise-game-to-meet-climate-pledge-says-report-wp5c68brb), [Reuters](https://www.reuters.com/article/oil-carbon-companies-targets/shell-eni-lead-oil-majors-climate-ambitions-but-still-fall-short-investors-idUSL8N2CT3TY)
+  Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-11/big-oil-s-climate-targets-not-enough-for-paris-goals-funds-say), [BBC](https://www.bbc.com/news/science-environment-52624695), [The Times](https://www.thetimes.co.uk/article/bp-must-raise-game-to-meet-climate-pledge-says-report-wp5c68brb), [Reuters](https://www.reuters.com/article/oil-carbon-companies-targets/shell-eni-lead-oil-majors-climate-ambitions-but-still-fall-short-investors-idUSL8N2CT3TY), [NRC](https://www.nrc.nl/nieuws/2020/05/18/van-de-oliesector-wordt-meer-verwacht-dan-klimaatdoelen-a3999996?utm_source=SIM&utm_medium=email&utm_campaign=Klimaat&utm_content=&utm_term=20200523)
 
 **[Carbon Performance Assessment in the Diversified Mining Sector: Discussion paper](http://joliennoels.github.io/files/Diversified-Miners-Discussion-Paper.pdf)**  
   Joint with Simon Dietz, Annabel Farr, Dan Gardiner and Valentin Jahn  
