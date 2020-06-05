@@ -2,6 +2,9 @@
 layout: archive
 permalink: /presentations/
 ---
+**Comparing European Oil & Gas decarbonization targets: challenges & insights from TPI briefing paper** J.P. Morgan Energy Transition virtual Road Show, June 5, 2020
+
+
 **State of the Transition 2020**, GRI Sustainable Finance lunch seminar  
 Grantham Research Institute, March 26, 2020
 
