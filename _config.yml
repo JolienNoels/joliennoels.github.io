@@ -110,7 +110,7 @@ author:
   name             : "Jolien Noels"
   avatar           : "files/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Economist"
-  location         : "London"
+  location         : "Paris"
   email            :
   links:
     - label: "Email"
