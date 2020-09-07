@@ -3,6 +3,10 @@ layout: archive
 permalink: /articles/
 ---
 
+**[Klimaattransitie: wat kunnen bedrijven doen?](https://www.etion.be/kennisbank/klimaattransitie-wat-kunnen-bedrijven-doen)** [[PDF]](http://joliennoels.github.io/files/in117_klimaattransitie-wat-kunnen-bedrijven-doen.pdf) ETION Forum, 27 Augustus 2020
+
+in117_klimaattransitie-wat-kunnen-bedrijven-doen
+
 **[Emissions targets in the oil and gas sector: How do they stack up?](http://www.lse.ac.uk/GranthamInstitute/news/emissions-targets-in-the-oil-and-gas-sector-how-do-they-stack-up/)** Grantham Research Institute, 02 June 2020
 
 **[What should investors know about the current state of corporate climate action?](http://www.lse.ac.uk/GranthamInstitute/news/what-should-investors-know-about-the-current-state-of-corporate-climate-action/ )** Grantham Research Institute, 24 March 2020
