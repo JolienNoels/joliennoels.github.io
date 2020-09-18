@@ -17,7 +17,8 @@ permalink: /research/
 
 **[TPI State of Transition Report 2020](http://joliennoels.github.io/files/TPI-State-of-the-Transition-2020.pdf)**  
   Joint with Simon Dietz, Rhoda Byrne, Dan Gardiner, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
-  Transition Pathway Initiative, 2020
+  Transition Pathway Initiative, 2020  
+  Selected coverage: [The Economist](https://www.economist.com/special-report/2020/09/17/costs-of-carbon)
 
 **[Management Quality and Carbon Performance of Industrials and Materials Companies](http://joliennoels.github.io/files/Industrial-and-Material-Sectors-Results-Feb-2020.pdf)**    
   Joint with Simon Dietz, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
