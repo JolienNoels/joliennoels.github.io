@@ -9,7 +9,7 @@ permalink: /research/
 **[Management Quality and Carbon Performance of Energy Companies: September 2020 Update](http://joliennoels.github.io/files/Energy-Sectors_results-Sep-2020.pdf)**  
  Joint with Simon Dietz, Alexa Beaucamp, Dan Gardiner, Nikolaus Hastreiter, Valentin Jahn, Michal Nachmany, Saskia Straub, Rory Sullivan and Dongmiao Zhang  
  Transition Pathway Initiative, 2020  
- Selected coverage: [FT](https://www.ft.com/content/16091645-98b3-4041-9ca2-053fb60181ba), [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-06/fossil-fuel-firms-aren-t-doing-enough-on-emissions-funds-say)
+ Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-06/fossil-fuel-firms-aren-t-doing-enough-on-emissions-funds-say), [FT](https://www.ft.com/content/16091645-98b3-4041-9ca2-053fb60181ba)
 
 **[Carbon Performance of European Integrated Oil and Gas Companies: Briefing paper](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
