@@ -37,7 +37,7 @@ permalink: /research/
   Transition Pathway Initiative, 2020  
   Selected coverage: [The Economist](https://www.economist.com/special-report/2020/09/17/costs-of-carbon)
 
-**[Management Quality and Carbon Performance of industrials and materials Companies](http://joliennoels.github.io/files/Industrial-and-Material-Sectors-Results-Feb-2020.pdf)**    
+**[Management Quality and Carbon Performance of industrials and materials companies](http://joliennoels.github.io/files/Industrial-and-Material-Sectors-Results-Feb-2020.pdf)**    
   Joint with Simon Dietz, Glen Gostlow, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2020  
   Selected coverage: [FT](https://www.ft.com/content/d94aa146-445a-11ea-a43a-c4b328d9061c), [Aljazeera](https://www.aljazeera.com/ajimpact/18-trillion-investor-group-calls-industry-giants-climate-200203191455108.html), [BusinessGreen](https://www.businessgreen.com/news/4009939/report-industrial-giants-guilty-slow-progress-climate-action), [Independent](https://www.independent.co.uk/news/business/comment/climate-crisis-industry-transition-pathway-initiative-fund-management-investment-a9311621.html)
