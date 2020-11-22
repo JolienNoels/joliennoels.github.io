@@ -11,6 +11,18 @@ permalink: /research/
  Transition Pathway Initiative, 2020  
  Selected coverage: [Bloomberg](https://www.bloomberg.com/news/articles/2020-10-06/fossil-fuel-firms-aren-t-doing-enough-on-emissions-funds-say), [FT](https://www.ft.com/content/16091645-98b3-4041-9ca2-053fb60181ba)
 
+ **[Carbon Performance Assessment in the Diversified Mining Sector: Methodology](http://joliennoels.github.io/files/Diversified-Mining-Methodology-Oct-2020.pdf)**  
+   Joint with Simon Dietz, Annabel Farr, Dan Gardiner and Valentin Jahn  
+   Transition Pathway Initiative, 2020
+
+**[Carbon Performance assessment of oil & gas producers: note on methodology](http://joliennoels.github.io/files/Oil-and-Gas-Methodology-Oct-2020.pdf)**  
+     Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
+     Transition Pathway Initiative, 2020
+
+**[Carbon Performance Assessment of Electricity Utilities: Note on methodology](http://joliennoels.github.io/files/Electricity-Utilities-Methodology-Oct-2020.pdf)**  
+       Joint with Simon Dietz, Dan Gardiner, William Irwin, Valentin Jahn and Bruno Rauis  
+       Transition Pathway Initiative, 2020
+
 **[Carbon Performance of European Integrated Oil and Gas Companies: Briefing paper](http://joliennoels.github.io/files/European-Integrated-Oil-and-Gas-Briefing-Paper.pdf)**  
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
   Transition Pathway Initiative, 2020  
@@ -30,7 +42,7 @@ permalink: /research/
   Transition Pathway Initiative, 2020  
   Selected coverage: [FT](https://www.ft.com/content/d94aa146-445a-11ea-a43a-c4b328d9061c), [Aljazeera](https://www.aljazeera.com/ajimpact/18-trillion-investor-group-calls-industry-giants-climate-200203191455108.html), [BusinessGreen](https://www.businessgreen.com/news/4009939/report-industrial-giants-guilty-slow-progress-climate-action), [Independent](https://www.independent.co.uk/news/business/comment/climate-crisis-industry-transition-pathway-initiative-fund-management-investment-a9311621.html)
 
-**[Carbon performance assessment of paper producers: note on methodology](http://joliennoels.github.io/files/Paper-Methodology-Dec-2019.pdf)**  
+**[Carbon Performance assessment of paper producers: note on methodology](http://joliennoels.github.io/files/Paper-Methodology-Dec-2019.pdf)**  
   Joint with Simon Dietz, William Irwin, Bruno Rauis, Valentin Jahn  
   Transition Pathway Initiative, 2020
 
