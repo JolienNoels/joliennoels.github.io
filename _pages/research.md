@@ -64,7 +64,7 @@ permalink: /research/
   Joint with Simon Dietz, Dan Gardiner and Valentin Jahn  
   Transition Pathway Initiative, 2019
 
-**[TPI Methodology and indicators report: Version 3.0](http://joliennoels.github.io/files/Methodology-and-Indicator-Report-v3.0.pdf)**  
+**[TPI methodology and indicators report: Version 3.0](http://joliennoels.github.io/files/Methodology-and-Indicator-Report-v3.0.pdf)**  
   Joint with Simon Dietz, Valentin Jahn, Michal Nachmany and Rory Sullivan  
   Transition Pathway Initiative, 2019
 
